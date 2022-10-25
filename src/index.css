@@ -57,6 +57,7 @@ html {
   padding-top: 25px;
   margin: auto;
   display: block;
+  position: absolute;
 }
 
 .energy {
@@ -75,4 +76,9 @@ html {
 .bar{
   height: 40px;
   background-color: pink;
+}
+
+.candy {
+  width: 50px;
+  position:relative;
 }
