@@ -7,7 +7,7 @@ function HouseCard({house}) {
 
     function handleHouseClick(e){
         console.log(house.id)
-        navigate('/porch')
+        navigate('/spookystreet/porch')
     }
 
     return (
